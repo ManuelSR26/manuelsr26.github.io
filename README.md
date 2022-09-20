@@ -1,2 +1,1 @@
-# manuelsr26.github.io
-# personal website
+This repo is for my personal website.

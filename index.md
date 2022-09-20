@@ -1,8 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-	<head>
-		<title>Manuel I Silva Ramirez</title>
-	</head>
+
 	<body>
 		<nav>
     		<ul>
@@ -19,7 +17,6 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:@gmail.com">email</a></li>
 			</ul>
 		</footer>
 	</body>

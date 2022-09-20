@@ -14,7 +14,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there!</h1>
+        		<h1>Hi there, I'm Manuel!</h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>

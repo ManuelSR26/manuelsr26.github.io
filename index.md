@@ -1,8 +1,26 @@
-## Welcome to Manuel Silva Ramirez homepage!
-
-## IN PROGRESS . . . 
-
-{% assign date = '2020-12-20-13T10:20:00Z' %}
-
-- Original date - {{date}}
-- With timeago filter - {{date | timeago}}
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Manuel I Silva Ramirez</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there!</h1>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:@gmail.com">email</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

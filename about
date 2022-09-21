@@ -1,0 +1,34 @@
+
+<html>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Manuel!</h1>
+				<p>
+        PROFESSIONAL SUMMARY
+Highly efficient and motivated professional with 12 years of experience in the telecommunications industry:
+
+Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for Mobile Operators including AT&T and T-Mobile.
+
+Expert knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN. • Solid coding/scripting experience in Python, R, and Bash. Familiar with Unix/Linux. Fundamental SQL knowledge. Proficient in configuration of Ericsson RAN Equipment.
+
+Diligent team leader. Excellent presentation and training skills. Online Master of Science in Analytics student, passionate about Data, Machine Learning, and Artificial Intelligence.
+        </p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:manuel.isr@outlook.com">email</a></li>
+        		<li><a href="https://manuelsr26.github.io/">manuelsr26.github.io</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

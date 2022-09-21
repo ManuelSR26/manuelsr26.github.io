@@ -1,5 +1,10 @@
 
 <html>
+	<head>
+		<title> Welcome to my webpage </title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		
 	<body>
 		<nav>
     		<ul>

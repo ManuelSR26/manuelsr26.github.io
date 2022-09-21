@@ -1,8 +1,24 @@
---
-layout: default
-title: Welcome to my website
---
-<div class="blurb">
-	<h1> Hi there, I'm Manuel! </h1>
-	<p> I am a highly motivated professional with 12 years of experience in the Telecom Industry. <a href="/about"> Read about me </a></p>
-</div><!-- /.blurb -->
+<html>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Manuel!</h1>
+				<p>I'm a telecom professional. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:manuel.isr@outlook.com">email</a></li>
+        		<li><a href="https://manuelsr26.github.io/">manuelsr26.github.io</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

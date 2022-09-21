@@ -18,9 +18,7 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-			<li><a href="mailto:manuel.isr@outlook.com">email
-				</a></li>
-			<li><a href="https://manuelsr26.github.io/>manuelsr26.github.io</a></li>
+			<li><a href="mailto:manuel.isr@outlook.com">email</a></li>
 			</ul>
 		</footer>
 	</body>

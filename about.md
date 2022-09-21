@@ -11,22 +11,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>PROFESSIONAL SUMMARY</h1>
-			
-			<p> Highly efficient and motivated professional with 12 years of experience in the telecommunications industry:
-				
-			Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for 
-				Mobile Operators including AT&T and T-Mobile.
-				
-			Expert knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN. 
-			
-			Solid coding/scripting experience in Python, R, and Bash. Familiar with Unix/Linux. Fundamental SQL knowledge. 
-			Proficient in configuration of Ericsson RAN Equipment.
-				
-			Diligent team leader. Excellent presentation and training skills. 
-			Online Master of Science in Analytics student, passionate about Data, Machine Learning, and Artificial Intelligence.
-			
-			
-			</p>
+			<p> Highly efficient and motivated professional with 12 years of experience in the telecommunications industry: Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for Mobile Operators including AT&T and T-Mobile.</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>

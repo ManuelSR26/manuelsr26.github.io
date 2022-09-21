@@ -13,7 +13,6 @@
 		<div class="container">
     		<div class="blurb">
         		<h1> Hi there, I'm Manuel! </h1>
-			<h1> Welcome to my website </h1>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>

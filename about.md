@@ -2,7 +2,7 @@
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="index.md">Home</a></li>
+        		<li><a href="/index">Home</a></li>
 	        	<li><a href="/">About</a></li>
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>

@@ -1,8 +1,6 @@
 #  Manuel I. Silva Ramirez 
 
-[email](manuel.isr@outlook.com)   |   510-646-3467   |  California, USA   |   [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
-
-Fluent in English and Spanish
+[email](manuel.isr@outlook.com) | 510-646-3467 | California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/) | Fluent in English and Spanish
 
 
 

@@ -1,4 +1,4 @@
-# RESUME #
+##  MANUEL I. SILVA RAMIREZ ##
 
 
 [Home](https://manuelsr26.github.io/)
@@ -118,28 +118,23 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 ## EDUCATION
 
-**GEORGIA INSTITUTE OF TECHNOLOGY , USA , 2021 - Ongoing** 
-
+*GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2021 - Ongoing* 
 **Master of Science in Analytics**
 
 
-**TECNOLÓGICO DE MONTERREY** | **Mexico** | **2010**
-
+*TECNOLÓGICO DE MONTERREY, Mexico, 2010*
 **Certificate, Telecommunications, Ethernet, and TCP/IP**
 
 
-**CENTRAL QUEENSLAND UNIVERSITY** | **Australia** | **2008 - 2009**
-
+*CENTRAL QUEENSLAND UNIVERSITY, Australia, 2008 - 2009*
 **Study Abroad Program, Peace Scholarship Recipient, Data communication networks and control systems**
 
 
-**BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA** | **Mexico** | **2003 - 2009**
-
+*BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA, Mexico, 2003 - 2009*
 **Bachelor of Electronics Science, Major in Telecommunication Systems**
 
 
-**McGill UNIVERSITY** | **Canada** | **2006**
-
+*McGill UNIVERSITY, Canada, 2006*
 **Study Abroad Program, Microelectronics**
 
 

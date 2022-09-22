@@ -21,9 +21,9 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 ## PROFESSIONAL EXPERIENCE
 
 
-AT&T |Tustin, California, USA | March 2018 – Present
+*AT&T |Tustin, California, USA | March 2018 – Present*
 
-SENIOR RADIO FREQUENCY ENGINEER | Contractor on behalf of Ericsson by Brook Consultants Inc.
+**SENIOR RADIO FREQUENCY ENGINEER | Contractor on behalf of Ericsson by Brook Consultants Inc.**
 
 
 

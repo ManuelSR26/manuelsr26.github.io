@@ -118,7 +118,7 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 ## EDUCATION
 
-**GEORGIA INSTITUTE OF TECHNOLOGY**| **USA** | **2021 - Ongoing** 
+**GEORGIA INSTITUTE OF TECHNOLOGY , USA , 2021 - Ongoing** 
 
 **Master of Science in Analytics**
 

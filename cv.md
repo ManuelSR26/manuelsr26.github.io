@@ -7,7 +7,7 @@
 
 
 
-**Efficient and motivated professional with 12 years of experience in the telecom industry.**
+*<span style="color:blue">Efficient and motivated professional with 12 years of experience in the telecom industry.</span>*
 
 
 

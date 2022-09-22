@@ -2,7 +2,10 @@
 
 #  MANUEL I. SILVA RAMIREZ 
 
-## [email](manuel.isr@outlook.com)   |   510-646-3467   |  California, USA   |   [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
+[email](manuel.isr@outlook.com)   |   510-646-3467   |  California, USA   |   [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
+
+F L U E N T     I N     E N G L I S H     A N D     S P A N I S H
+
 
 
 ## PROFESSIONAL SUMMARY

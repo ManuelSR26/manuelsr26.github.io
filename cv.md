@@ -1,7 +1,7 @@
 [Home](https://manuelsr26.github.io/)
 
-##  MANUEL I. SILVA RAMIREZ 
-manuel.isr@outlook.com|510-646-3467|Irvine,CA|https://www.linkedin.com/in/manuel-silva-ramirez/
+#  MANUEL I. SILVA RAMIREZ 
+manuel.isr@outlook.com|510-646-3467|CA|[LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
 
 
@@ -121,24 +121,24 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 ## EDUCATION
 
-*GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2021 - Ongoing* 
+*GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2021 - Ongoing:* 
 **Master of Science in Analytics**
 
 
-*TECNOLÓGICO DE MONTERREY, Mexico, 2010*
-**Certificate, Telecommunications, Ethernet, and TCP/IP**
+*TECNOLÓGICO DE MONTERREY, Mexico, 2010:*
+**Certificate, Telecomm, Ethernet, TCP/IP**
 
 
-*CENTRAL QUEENSLAND UNIVERSITY, Australia, 2008 - 2009*
-**Study Abroad Program, Peace Scholarship Recipient, Data communication networks and control systems**
+*CQUNIVERSITY, Australia, 2008 - 2009:*
+**Study Abroad, Peace Scholarship, Data communication networks and control systems**
 
 
-*BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA, Mexico, 2003 - 2009*
-**Bachelor of Electronics Science, Major in Telecommunication Systems**
+*BUAP, Mexico, 2003 - 2009:*
+**BS Electronics Science, Major in Telecom Systems**
 
 
-*McGill UNIVERSITY, Canada, 2006*
-**Study Abroad Program, Microelectronics**
+*McGill UNIVERSITY, Canada, 2006:*
+**Study Abroad, Microelectronics**
 
 
 

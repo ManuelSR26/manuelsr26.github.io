@@ -122,19 +122,19 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 ## EDUCATION
 
 *GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2021 - Ongoing:* 
-**Master of Science in Analytics**
+**MS Analytics**
 
 
 *TECNOLÓGICO DE MONTERREY, Mexico, 2010:*
-**Certificate, Telecomm, Ethernet, TCP/IP**
+**Certificate of Telecomm, Ethernet, TCP/IP**
 
 
 *CQUNIVERSITY, Australia, 2008 - 2009:*
-**Study Abroad, Peace Scholarship, Data communication networks and control systems**
+**Peace Scholarship Study Abroad, Data networks**
 
 
 *BUAP, Mexico, 2003 - 2009:*
-**BS Electronics Science, Major in Telecom Systems**
+**BS Electronics, Major in Telecommunication Systems**
 
 
 *McGill UNIVERSITY, Canada, 2006:*

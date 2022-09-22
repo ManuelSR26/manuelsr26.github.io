@@ -1,6 +1,7 @@
 [Home](https://manuelsr26.github.io/)
 
-##  MANUEL I. SILVA RAMIREZ manuel.isr@outlook.com|510-646-3467|Irvine,CA|https://www.linkedin.com/in/manuel-silva-ramirez/
+##  MANUEL I. SILVA RAMIREZ 
+manuel.isr@outlook.com|510-646-3467|Irvine,CA|https://www.linkedin.com/in/manuel-silva-ramirez/
 
 
 

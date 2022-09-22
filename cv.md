@@ -17,12 +17,14 @@ Diligent team leader. Excellent presentation and training skills.
 Online Master of Science in Analytics student, passionate about Data, Machine Learning, and Artificial Intelligence.
 
 
+
 ## PROFESSIONAL EXPERIENCE
 
 
 AT&T |Tustin, California, USA | March 2018 – Present
 
 SENIOR RADIO FREQUENCY ENGINEER – Contractor on behalf of Ericsson by Brook Consultants Inc.
+
 
 
 Technical Ericsson RAN Leader in the AT&T LA Market for the LTE and 5G C-RAN Project. Leading a team of 7 Engineers.

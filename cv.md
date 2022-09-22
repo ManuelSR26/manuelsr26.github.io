@@ -1,10 +1,10 @@
-[Home](https://manuelsr26.github.io/)
+
 
 #  MANUEL I. SILVA RAMIREZ 
-manuel.isr@outlook.com|510-646-3467|CA|[LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
+# manuel.isr@outlook.com   |   510-646-3467   |  California, USA   |   [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
-
-
+========================
+[Home](https://manuelsr26.github.io/)
 
 ## PROFESSIONAL SUMMARY
 

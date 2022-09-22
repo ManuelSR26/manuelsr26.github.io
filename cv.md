@@ -21,9 +21,9 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 ## PROFESSIONAL EXPERIENCE
 
 
-*AT&T | Tustin, California, USA | March 2018 – Present*
+**AT&T** | **Tustin, California, USA** | **March 2018 – Present**
 
-**SENIOR RADIO FREQUENCY ENGINEER | Contractor on behalf of Ericsson by Brook Consultants Inc.**
+**SENIOR RADIO FREQUENCY ENGINEER, Contractor on behalf of Ericsson by Brook Consultants Inc.**
 
 
 
@@ -49,9 +49,9 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 
 
-*YUPANA, Inc. | Walnut Creek, California, USA | August 2014 – September 2017*
+**YUPANA, Inc.** | **Walnut Creek, California, USA** | **August 2014 – September 2017**
 
-**Senior Radio Access Network Engineer Lead | April 2015 – September 2017**
+**Senior Radio Access Network Engineer Lead, April 2015 – September 2017**
 
 - Technical Leader in the LA and NCAL markets for the AT&T LTE New Site Build Project. Led a team of 12 Engineers.
 
@@ -64,7 +64,7 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 - Testing and validation of Software tools oriented to reduce the amount of time in the Integration and Support of LTE Network Nodes.
 
 
-**Radio Access Network Engineer | Contractor on behalf of NextGen Global Solutions | August 2014 – March 2015**
+**Radio Access Network Engineer, Contractor on behalf of NextGen Global Solutions, August 2014 – March 2015**
 
 - Process owner for Restoration & Troubleshoot Methods for GSM/UMTS/LTE Network Nodes.
 

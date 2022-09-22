@@ -84,12 +84,12 @@ Highly efficient and motivated professional with 12 years of experience in the t
 **Certificate of Telecomm, Ethernet, TCP/IP**
 
 
-*CQUNIVERSITY, Australia, 2008 - 2009:*
-**Peace Scholarship Study Abroad, Data networks**
-
-
 *BUAP, Mexico, 2003 - 2009:*
 **BS Electronics, Major in Telecommunication Systems**
+
+
+*CQUNIVERSITY, Australia, 2008 - 2009:*
+**Peace Scholarship Study Abroad, Data networks**
 
 
 *McGill UNIVERSITY, Canada, 2006:*

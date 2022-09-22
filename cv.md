@@ -149,7 +149,7 @@ LA C-RAN Support | South TX LTE Optimization | NorCal LTE NSB | National UMTS No
 
 *YUPANA, INC.*
 
-SW Development of YUPPI and YUCUBE
+SW Development of YUPPI | SW Development of YUCUBE
 
 *T-Mobile* 
 

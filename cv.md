@@ -20,20 +20,25 @@ Highly efficient and motivated professional with 12 years of experience in the t
 
 
 **<span style="color:blue">AT&T, Tustin, California, USA, March 2018 – Present</span>**
+
 **- Senior RF Engineer, Contractor on behalf of Ericsson by Brook Consultants Inc.**
 
 
 **<span style="color:blue">YUPANA, Inc.</span>** | **<span style="color:blue">Walnut Creek, California, USA</span>** | **<span style="color:blue">August 2014 – September 2017</span>**
 
 **- Senior RAN Engineer Lead, April 2015 – September 2017**
+
 **- RAN Engineer, Contractor on behalf of NextGen Global Solutions, August 2014 – March 2015**
 
 
 **<span style="color:blue">ERICSSON</span>** | **<span style="color:blue">Mexico City, Mexico</span>** | **<span style="color:blue">August 2010 – July 2014</span>**
 
 **- Network Optimization Engineer, Jan 2013 – July 2014**
+
 **- Senior Network Integration Engineer, Jan 2012 – Jan 2013**
+
 **- Network Integration Engineer, Dec 2010 – Dec 2011**
+
 **- Intern, August 2010 – Nov 2010**
 
 

@@ -19,7 +19,7 @@ Highly efficient and motivated professional with 12 years of experience in the t
 ## PROFESSIONAL EXPERIENCE
 
 
-**AT&T** | **Tustin, California, USA** | **March 2018 – Present**
+**<span style="color:blue">AT&T</span>** | **<span style="color:blue">Tustin, California, USA</span>** | **<span style="color:blue">March 2018 – Present</span>**
 
 **Senior RF Engineer, Contractor on behalf of Ericsson by Brook Consultants Inc.**
 - Technical Ericsson RAN Leader in the AT&T LA Market for the LTE and 5G C-RAN Project. Leading a team of 7 Engineers.

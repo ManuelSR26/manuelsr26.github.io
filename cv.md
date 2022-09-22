@@ -74,3 +74,5 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 - Produced reports of Network KPIs.
 
+
+[Home]:https://manuelsr26.github.io/ 

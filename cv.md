@@ -1,5 +1,8 @@
 # RESUME
 
+
+[Home](https://manuelsr26.github.io/)
+
 ## PROFESSIONAL SUMMARY
 
 Highly efficient and motivated professional with 12 years of experience in the telecommunications industry:

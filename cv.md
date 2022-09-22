@@ -1,8 +1,9 @@
+[Home](https://manuelsr26.github.io/)
+
 #  MANUEL I. SILVA RAMIREZ 
+
 ## [email](manuel.isr@outlook.com)   |   510-646-3467   |  California, USA   |   [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
-
-[Home](https://manuelsr26.github.io/)
 
 ## PROFESSIONAL SUMMARY
 
@@ -137,6 +138,26 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 *McGill UNIVERSITY, Canada, 2006:*
 **Study Abroad, Microelectronics**
+
+
+## MAIN PROJECTS
+
+*AT&T* 
+
+LA C-RAN Support | South TX LTE Optimization | NorCal LTE NSB | National UMTS Node B Rehome 
+
+*YUPANA, INC.*
+
+SW Development of YUPPI and YUCUBE
+
+*T-Mobile* 
+
+National UMTS-LTE Network Modernization | NY Hybrid Migration of ATM to IP Nodes
+
+
+
+
+
 
 
 

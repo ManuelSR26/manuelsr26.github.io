@@ -9,18 +9,12 @@ Fluent in English and Spanish
 ## PROFESSIONAL SUMMARY
 
 Highly efficient and motivated professional with 12 years of experience in the telecommunications industry:
-
-Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for Mobile Operators including AT&T and T-Mobile.
-
-Expert knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN.
-
-Solid coding/scripting experience in Python, R, and Bash. Familiar with Unix/Linux. Fundamental SQL knowledge. 
-
-Proficient in configuration of Ericsson RAN Equipment.
-
-Diligent team leader. Excellent presentation and training skills. 
-
-Online Master of Science in Analytics student, passionate about Data, Machine Learning, and Artificial Intelligence.
+- Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for Mobile Operators including AT&T and T-Mobile.
+- Expert knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN.
+- Solid coding/scripting experience in Python, R, and Bash. Familiar with Unix/Linux. Fundamental SQL knowledge. 
+- Proficient in configuration of Ericsson RAN Equipment.
+- Diligent team leader. Excellent presentation and training skills. 
+- Online Master of Science in Analytics student, passionate about Data, Machine Learning, and Artificial Intelligence.
 
 
 
@@ -29,8 +23,7 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 **AT&T** | **Tustin, California, USA** | **March 2018 – Present**
 
-**SENIOR RF ENGINEER, Contractor on behalf of Ericsson by Brook Consultants Inc.**
-
+**Senior RF Engineer, Contractor on behalf of Ericsson by Brook Consultants Inc.**
 - Technical Ericsson RAN Leader in the AT&T LA Market for the LTE and 5G C-RAN Project. Leading a team of 7 Engineers.
 - Key member of the AT&T LA C-RAN Program; contributing to achieve +100% of monthly and yearly goals since 2018.
 - Support the AT&T Construction and Engineering teams in achieving the targets of C-RAN Small Cells commerciallylaunched.
@@ -47,7 +40,6 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 **YUPANA, Inc.** | **Walnut Creek, California, USA** | **August 2014 – September 2017**
 
 **Senior RAN Engineer Lead, April 2015 – September 2017**
-
 - Technical Leader in the LA and NCAL markets for the AT&T LTE New Site Build Project. Led a team of 12 Engineers.
 - RFDS review of newly integrated carriers; cross-check of RFDS versus OSS configuration.
 - Developed and updated scopes of work, reports and tools to support the daily activities of the RAN team.
@@ -56,7 +48,6 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 
 **RAN Engineer, Contractor on behalf of NextGen Global Solutions, August 2014 – March 2015**
-
 - Process owner for Restoration & Troubleshoot Methods for GSM/UMTS/LTE Network Nodes.
 - Promoted to team leader after 8 months. Always exceeding SLAs.
 - Performed Network configuration, scripting, debugging, verification, and compilation of Wireless Nodes via Managed Object Shell, Bash, and Ericsson Operation Support Systems. 
@@ -66,26 +57,21 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 **ERICSSON** | **Mexico City, Mexico** | **August 2010 – July 2014**
 
 **Network Optimization Engineer, Jan 2013 – July 2014**
-
 - Performed RF parameter changes for the AT&T LTE Network in North Texas, Florida and Louisiana markets.
 - Owner of the Neighbor RF Analysis procedure for LTE Nodes, reducing the time of the activity by 15%.
 - Analyzed drive test results using TEMS and Actix Anova Software, provided reports of recommendations for optimal Network performance.
 
 **Senior Network Integration Engineer, Jan 2012 – Jan 2013**
-
 - Technical leader of the Ericsson GSC team for 3G AT&T Node B Rehome Project Nationwide. Led a team of 5 Engineers.
 - First Line Support Engineer for the T-Mobile Modernization Project.
 - Coordinator and coach for the Experienced Engineer Certification Program: created technical presentations, delivered workshops, arranged and scheduled study groups.
 
 **Network Integration Engineer, Dec 2010 – Dec 2011**
-
 - Network integration and configuration support to the 2G and 3G Networks of AT&T and T-Mobile.
 - Trained new team members on UMTS Node B Rehome scripts in XML, loaded licenses via Ericsson OSS, and troubleshot connectivity issues for ATM and IP Nodes.
 - Earned a certification as Senior Network Integration Engineer, promoted after 1 year.
 
-
 **Intern, August 2010 – Nov 2010**
-
 - Top of class of Ericsson Graduate’s Program.
 - Performed laboratory configurations and testing of RBS3000 WCDMA Nodes. Completed 250 hours of technical training.
 

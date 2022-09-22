@@ -56,6 +56,7 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 
 **Senior RAN Engineer Lead, April 2015 – September 2017**
 
+
 - Technical Leader in the LA and NCAL markets for the AT&T LTE New Site Build Project. Led a team of 12 Engineers.
 
 - RFDS review of newly integrated carriers; cross-check of RFDS versus OSS configuration.
@@ -76,6 +77,43 @@ Online Master of Science in Analytics student, passionate about Data, Machine Le
 - Performed Network configuration, scripting, debugging, verification, and compilation of Wireless Nodes via Managed Object Shell, Bash, and Ericsson Operation Support Systems. 
 
 - Produced reports of Network KPIs.
+
+
+**ERICSSON** | **Mexico City, Mexico** | **August 2010 – July 2014**
+
+**Network Optimization Engineer, Jan 2013 – July 2014**
+
+
+- Performed RF parameter changes for the AT&T LTE Network in North Texas, Florida and Louisiana markets.
+
+- Owner of the Neighbor RF Analysis procedure for LTE Nodes, reducing the time of the activity by 15%.
+
+- Analyzed drive test results using TEMS and Actix Anova Software, provided reports of recommendations for optimal Network performance.
+
+
+**Senior Network Integration Engineer, Jan 2012 – Jan 2013**
+
+- Technical leader of the Ericsson GSC team for 3G AT&T Node B Rehome Project Nationwide. Led a team of 5 Engineers.
+
+- First Line Support Engineer for the T-Mobile Modernization Project.
+
+- Coordinator and coach for the Experienced Engineer Certification Program: created technical presentations, delivered workshops, arranged and scheduled study groups.
+
+
+**Network Integration Engineer, Dec 2010 – Dec 2011**
+
+- Network integration and configuration support to the 2G and 3G Networks of AT&T and T-Mobile.
+
+- Trained new team members on UMTS Node B Rehome scripts in XML, loaded licenses via Ericsson OSS, and troubleshot connectivity issues for ATM and IP Nodes.
+
+- Earned a certification as Senior Network Integration Engineer, promoted after 1 year.
+
+
+**Intern, August 2010 – Nov 2010**
+
+- Top of class of Ericsson Graduate’s Program.
+
+- Performed laboratory configurations and testing of RBS3000 WCDMA Nodes. Completed 250 hours of technical training.
 
 
 [Home](https://manuelsr26.github.io/)

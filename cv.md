@@ -1,4 +1,5 @@
 #  <span style="color:white">Manuel I. Silva Ramirez</span>
+###  <span style="color:blue">[Home](https://manuelsr26.github.io/)</span> 
 
 [email](manuel.isr@outlook.com) | 510-646-3467 | California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/) | Fluent in English and Spanish
 

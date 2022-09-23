@@ -1,4 +1,4 @@
-# Welcome to my website
+#  <span style="color:white">Welcome</span>
 
 <html>
 	<body>
@@ -12,8 +12,8 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Manuel!</h1>
-				<p>I'm a telecom professional. <a href="/about">Read more about me</a></p>
+        		<h1>Hi there, this is Manuel.</h1>
+				<p> I am an engineer working in telecom and a technology enthusiast. <a href="/about">Read more about me</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>

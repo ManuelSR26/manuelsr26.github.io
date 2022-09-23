@@ -4,7 +4,7 @@
 🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about) | [Resume](https://manuelsr26.github.io/cv) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
 <p style="text-align: center;"> 
-  <span style="color:black">MANUEL I. SILVA RAMIREZ </span>
+  <span style="color:blue">MANUEL I. SILVA RAMIREZ </span>
 </p>
 
 <p style="text-align: center;">

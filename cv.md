@@ -11,8 +11,8 @@
 
 ## Skills
 
-- Engineering Design, Integration and Optimization of Mobile Nodes. 
-- Knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G, ORAN. 
+- Engineering Design, Integration and Optimization of Mobile Network Nodes. 
+- Knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, 5G, ORAN. 
 - Coding and scripting in Python, R, Bash, Unix/Linux, SQL.  
 
 

@@ -7,7 +7,9 @@
   
 ## Engineer. Technology Enthusiast. Data Scientist on the works.
 
-## You can read more about me [here.](https://manuelsr26.github.io/about)
+## Passionate about Data, AI, ML.
+
+### You can read more about me [here](https://manuelsr26.github.io/about)
   
-## Thanks for visiting my website
+#### Thanks for visiting my website
 

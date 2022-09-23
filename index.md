@@ -1,4 +1,4 @@
-#  <span style="color:white">**MANUEL I. SILVA RAMIREZ** "\n" *Engineer, Technology Enthusiast, Aspirant Data Scientist* </span>
+#  <span style="color:white">**MANUEL I. SILVA RAMIREZ**  *Engineer, Technology Enthusiast, Aspirant Data Scientist* </span>
 
 
 <html>

@@ -3,6 +3,8 @@
 
 📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
+\n
+\n
 
 <p style="text-align: center;">
 <span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry. Passionate about Data, Machine Learning, and Artificial Intelligence.</span>

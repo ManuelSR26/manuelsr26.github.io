@@ -1,4 +1,4 @@
-#  <span style="color:white">Manuel I. Silva Ramirez</span> |:house: [Home](https://manuelsr26.github.io/)|📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) |
+#  <span style="color:white">Manuel I. Silva Ramirez|:house: [Home](https://manuelsr26.github.io/)|📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | </span> 
 
 
 📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)

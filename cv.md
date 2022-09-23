@@ -15,6 +15,7 @@
 - Engineering Design, Integration and Optimization of Mobile Network Nodes. 
 - Radio Access Network Technologies: UMTS, LTE, C-RAN, 5G, ORAN. 
 - Coding and scripting in Python, R, Bash, Unix/Linux, SQL.  
+- Fluent in English and Spanish
 
 
 ## Experience

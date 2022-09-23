@@ -5,13 +5,13 @@
 
 
 <p style="text-align: center;">
-<span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry.</span>
+<span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry. Passionate about Data, Machine Learning, and Artificial Intelligence.</span>
 </p>
 
 
 ## Skills
 
-Engineering Design, Integration and Optimization of Mobile Nodes. Knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN. Coding and scripting in Python, R, Bash, Unix/Linux, SQL. Configuration of Ericsson RAN Equipment. Team leader. Passionate about Data, Machine Learning, and Artificial Intelligence.
+Engineering Design, Integration and Optimization of Mobile Nodes. Knowledge of RAN Wireless Technologies: WCDMA, LTE, C-RAN, and 5G. Fundamental knowledge of ORAN. Coding and scripting in Python, R, Bash, Unix/Linux, SQL. Configuration of Ericsson RAN Equipment. Team leader. 
 
 
 ## Experience

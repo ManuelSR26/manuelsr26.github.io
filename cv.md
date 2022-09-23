@@ -1,7 +1,7 @@
 #  <span style="color:white">Manuel I. Silva Ramirez </span> 
 
 
-🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about.md) | [Resume](https://manuelsr26.github.io/cv.md) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
+🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about) | [Resume](https://manuelsr26.github.io/cv) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
 
 

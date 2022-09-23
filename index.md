@@ -1,5 +1,5 @@
-#  <span style="color:white">Manuel I. Silva Ramirez</span>
-#  <span style="color:white">*Engineer, Technology Enthusiast, Aspirant Data Scientist*</span>
+#  <span style="color:white">**MANUEL I. SILVA RAMIREZ**</span> <span style="color:white">*Engineer, Technology Enthusiast, Aspirant Data Scientist* </span>
+
 
 <html>
 	<body>

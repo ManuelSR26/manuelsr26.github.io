@@ -80,14 +80,8 @@ SW Development of YUPPI | SW Development of YUCUBE
 
 National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes
 
-<span style="color:white">[^1]</span>
-[^1]: [Home](http://manuelsr26.github.io/)
 
 
-
-
-
-
-
-
+<p style="text-align: center;">
 [Home](https://manuelsr26.github.io/)
+</p>

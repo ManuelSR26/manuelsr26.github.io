@@ -3,7 +3,7 @@
 
 🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about) | [Resume](https://manuelsr26.github.io/cv) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
-## Manuel Silva Ramirez
+## <p style="text-align: center;"> Manuel I. Silva Ramirez </p>
 
 <p style="text-align: center;">
 <span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry. Passionate about Data, Machine Learning, and Artificial Intelligence.</span>

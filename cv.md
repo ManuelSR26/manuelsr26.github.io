@@ -1,7 +1,7 @@
 #  <span style="color:white">Manuel I. Silva Ramirez</span>
 
 
-[manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | 510-646-3467 | California | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/) | English and Spanish
+📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | 📞 510-646-3467 | California | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/) | English and Spanish
 
 
 

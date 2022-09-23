@@ -1,5 +1,5 @@
 #  *<span style="color:white">Manuel  </span>*
-## *I'm and Engineer, Technology Enthusiast, and Aspirant Data Scientist. You can read more about me here.*
+## *Engineer. Technology Enthusiast. Data Scientist on the works. You can read more about me here.*
 ## *Thanks for visiting my website*
 
 

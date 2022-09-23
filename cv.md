@@ -82,4 +82,4 @@ National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to 
 
 
 
-<center> [Home](https://manuelsr26.github.io/) </center>
+[Home](https://manuelsr26.github.io/)

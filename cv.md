@@ -1,8 +1,8 @@
 #  <span style="color:white">Manuel I. Silva Ramirez</span>
 
-<p style="text-align: center;">
+
 📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
-  </p>
+
 
 <p style="text-align: center;">
 <span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry.</span>

@@ -1,7 +1,7 @@
 #  <span style="color:white">Manuel I. Silva Ramirez </span> 
 
 
-[🏠] (https://manuelsr26.github.io/) | [📧] (mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
+🏠(https://manuelsr26.github.io/) | [📧] (mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
 
 

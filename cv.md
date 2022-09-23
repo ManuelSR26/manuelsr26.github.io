@@ -3,10 +3,7 @@
 
 📧 [manuel.isr@outlook.com](mailto:manuel.isr@outlook.com) | Bilingual in English & Spanish | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)
 
-("\"
-)
-("\"
-)
+
 
 <p style="text-align: center;">
 <span style="color:black">Efficient and motivated engineer with a proven track of 12 years of successful experience in the Telecom Industry. Passionate about Data, Machine Learning, and Artificial Intelligence.</span>
@@ -82,6 +79,9 @@ SW Development of YUPPI | SW Development of YUCUBE
 **<span style="color:blue">T-Mobile:</span>** 
 
 National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes
+
+<span style="color:white">[^1]</span>
+[^1]: [Home](http://manuelsr26.github.io/)
 
 
 

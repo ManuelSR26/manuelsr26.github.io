@@ -57,7 +57,7 @@
 **Study Abroad, Microelectronics**
 
 
-## MAIN PROJECTS
+## Main Projects
 
 **<span style="color:blue">AT&T:</span>** 
 

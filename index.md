@@ -1,5 +1,6 @@
-#  <span style="color:white">MANUEL I. SILVA RAMIREZ </span>
-## *Engineer, Technology Enthusiast, Aspirant Data Scientist*
+#  *<span style="color:white">Manuel  </span>*
+## *I'm and Engineer, Technology Enthusiast, and Aspirant Data Scientist. You can read more about me here.*
+## *Thanks for visiting my website*
 
 
 <html>

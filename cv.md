@@ -67,7 +67,7 @@ Engineering Design, Integration and Optimization of Mobile Nodes. Knowledge of R
 
 **<span style="color:blue">AT&T:</span>** 
 
-LA C-RAN Support | South TX LTE Optimization | NorCal LTE NSB | National UMTS Node B Rehome 
+Los Angeles C-RAN LTE & 5G Support | South Texas LTE Optimization | North California LTE NSB | National UMTS Node B Rehome 
 
 **<span style="color:blue">YUPANA, INC.:</span>**
 
@@ -75,7 +75,7 @@ SW Development of YUPPI | SW Development of YUCUBE
 
 **<span style="color:blue">T-Mobile:</span>** 
 
-National UMTS-LTE Network Modernization | NY Hybrid Migration of ATM to IP Nodes
+National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes
 
 
 

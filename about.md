@@ -1,4 +1,4 @@
-#  *<span style="color:white"> About Me </span>*
+#  *<span style="color:white"> About </span>*
 
 
 
@@ -8,6 +8,8 @@
 
   
 ## Hi there! My name is Manuel. 
-### I am originally from Mexico. I was born in Oaxaca and raised in Puebla, two of the most iconic places in my home country.
+### I am originally from Mexico, born in Oaxaca and raised in Puebla.
 
-### I have lived in several countries and cities around the world. Since 2014, I reside in California (first in the  San Francisco Bay Area and the in Orange County, with a stop for a few months in San Antonio Texas).
+### I have lived in several cities around the world. Since 2014, I reside in the USA (first in the San Francisco Bay Area and then in Orange County, with a stop for a few months in San Antonio TX).
+
+## I work as an Engineer in the Telecom industry; supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs, and possionate about Data, Machine Learning, and Artificial Intelligence. 

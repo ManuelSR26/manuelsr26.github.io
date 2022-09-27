@@ -3,7 +3,7 @@
 
 
 
-|🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about) | [Resume](https://manuelsr26.github.io/cv) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)|
+|[HOME](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [ABOUT ME](https://manuelsr26.github.io/about) | [RESUME](https://manuelsr26.github.io/cv) | BLOG | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)|
 
 
   

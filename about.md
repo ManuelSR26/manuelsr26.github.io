@@ -1,31 +1,11 @@
-<html>
-	<head>
-		
-		<title> About me </title>
-	
-	</head>
-	
-	
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/index">Home</a></li>
-	        	<li><a href="/">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>PROFESSIONAL SUMMARY</h1>
-			<p> Highly efficient and motivated professional with 12 years of experience in the telecommunications industry: Extensive experience in projects regarding Engineering Design, Integration and Optimization of Network Nodes for Mobile Operators including AT&T and T-Mobile.</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:manuel.isr@outlook.com">email</a></li>
-        		<li><a href="https://manuelsr26.github.io/">manuelsr26.github.io</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+# *<span style="color:white">The Telecom Engineer  </span>* {#custom-id}
+
+
+
+
+|🏠[Home](https://manuelsr26.github.io/) | 📧 [email](mailto:manuel.isr@outlook.com) | [About](https://manuelsr26.github.io/about) | [Resume](https://manuelsr26.github.io/cv) | Blog | 🌎 California, USA | [LinkedIn](https://www.linkedin.com/in/manuel-silva-ramirez/)|
+
+
+  
+## Hi there! My name is Manuel. I am originally from Oaxaca, Mexico. Currently, I live and work in California.
+

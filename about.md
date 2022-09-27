@@ -8,5 +8,6 @@
 
   
 ## Hi there! My name is Manuel. 
-### I am originally from Oaxaca, Mexico. Currently, I live and work in California. I work as an engineer in the Telecom industry, and and online MS Data Science student. In my spare time I am learning to play the guitar.
+### I am originally from Mexico. I was born in Oaxaca and raised in Puebla, two of the most iconic places in my home country.
 
+### I have lived in several countries and cities around the world. Since 2014, I reside in California (first in the  San Francisco Bay Area and the in Orange County, with a stop for a few months in San Antonio Texas).

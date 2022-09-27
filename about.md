@@ -12,4 +12,4 @@
 
 ### I have lived in several cities around the world. Since 2014, I reside in the USA (first in the San Francisco Bay Area and then in Orange County, with a stop for a few months in San Antonio TX).
 
-## I work as an Engineer in the Telecom industry; supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs, and passionate about Data, Machine Learning, and Artificial Intelligence. You can read about my qualifications [here](https://manuelsr26.github.io/cv).  
+### I work as an Engineer in the Telecom industry; supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs, and passionate about Data, Machine Learning, and Artificial Intelligence. You can read about my qualifications [here](https://manuelsr26.github.io/cv).  

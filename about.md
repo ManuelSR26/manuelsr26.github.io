@@ -7,5 +7,6 @@
 
 
   
-## Hi there! My name is Manuel. I am originally from Oaxaca, Mexico. Currently, I live and work in California.
+## Hi there! My name is Manuel. 
+## I am originally from Oaxaca, Mexico. Currently, I live and work in California. I work as an engineer in the Telecom industry, and and online MS Data Science student. In my spare time I am learning to play the guitar.
 

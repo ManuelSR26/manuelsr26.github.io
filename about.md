@@ -1,4 +1,4 @@
-# *<span style="color:white">The Telecom Engineer  |About me|</span> *
+# *<span style="color:white">The Telecom Engineer  </span> |About me| *
 
 
 

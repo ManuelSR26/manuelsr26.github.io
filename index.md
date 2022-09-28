@@ -12,7 +12,7 @@
 
 
 <figure>
-    <img src=https://unsplash.com/photos/Q1p7bh3SHj8
+    <img src='https://unsplash.com/photos/Q1p7bh3SHj8'
          alt="Credit: NASA">
     <figcaption>Picture by NASA.</figcaption>
 </figure>

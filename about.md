@@ -15,7 +15,7 @@
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs.</span>
+<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G domains. Currently studying a MSc. in Data Analytcs.</span>
 </p>
 
 <p style="text-align: center;">

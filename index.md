@@ -9,12 +9,12 @@
 
 ### This is my new page. You can read more about me [here](https://manuelsr26.github.io/about) 
 
-![Picture by NASA!](/nasa-Q1p7bh3SHj8-unsplash.jpg "Picture by NASA")
+![Credit N!](/nasa-Q1p7bh3SHj8-unsplash.jpg "Credit N")
 
 <figure>
-    <img src='https://unsplash.com/photos/Q1p7bh3SHj8'
+    <img src="/nasa-Q1p7bh3SHj8-unsplash.jpg"
          alt="Credit: NASA">
-    <figcaption>Picture by NASA.</figcaption>
+    <figcaption>Credit NASA.</figcaption>
 </figure>
   
 #### <center> Thanks for visiting, have a great day! </center>

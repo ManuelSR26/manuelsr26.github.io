@@ -11,7 +11,7 @@
 
 
 <p style="text-align: center;">
-<span style="color:black">Originally from Mexico: born in Oaxaca and raised in Puebla. Since 2014, I reside in the USA (first in the San Francisco Bay Area and then in Orange County, with a stop for a few months in San Antonio TX)</span>
+<span style="color:black">Originally from Mexico: born in Oaxaca and raised in Puebla. Living in the USA since 2014 (first in the San Francisco Bay Area and then in Orange County, with a stop for a few months in San Antonio TX)</span>
 </p>
 
 <p style="text-align: center;">

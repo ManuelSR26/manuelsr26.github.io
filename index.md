@@ -6,6 +6,8 @@
 
 ## <center> <span style="color:blue"> Engineer &nbsp;&nbsp; & &nbsp;&nbsp; aspirant &nbsp;&nbsp; Data &nbsp;&nbsp;Scientist </span>  </center>
 
+## <center> <span style="color:blue"> Engineer, Tech Enthusiast & aspirant Data Scientist </span>  </center>
+
 
 
 <figure>

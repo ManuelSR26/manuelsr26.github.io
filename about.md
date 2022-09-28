@@ -15,7 +15,7 @@
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs. You can read more about my qualifications [here](https://manuelsr26.github.io/cv).</span>
+<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G domains. Currently, I am enrolled in an MSc. in Data Analytcs.</span>
 </p>
 
 <p style="text-align: center;">

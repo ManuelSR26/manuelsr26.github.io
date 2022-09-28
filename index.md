@@ -8,6 +8,14 @@
 
 
 ### This is my new page. You can read more about me [here](https://manuelsr26.github.io/about) 
+
+
+
+<figure>
+    <img src=https://unsplash.com/photos/Q1p7bh3SHj8
+         alt="Credit: NASA">
+    <figcaption>Picture by NASA.</figcaption>
+</figure>
   
 #### <center> Thanks for visiting, have a great day! </center>
 

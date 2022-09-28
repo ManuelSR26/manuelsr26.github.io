@@ -15,11 +15,11 @@
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G domains. Currently studying a MSc. in Data Analytcs.</span>
+<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G wireless networks. Currently, I am studying online a MSc. in Data Analytics.</span>
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I enjoy travelling, going to concerts, and lately I'm learning to play the guitar. </span>
+<span style="color:black">I enjoy travelling, going to concerts, hiking, and swimming. Learning to play the guitar in my spare time. </span>
 </p>
 
 ### Originally from Mexico: born in Oaxaca and raised in Puebla. Since 2014, I reside in the USA (first in the San Francisco Bay Area and then in Orange County, with a stop for a few months in San Antonio TX).

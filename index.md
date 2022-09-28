@@ -9,7 +9,7 @@
 
 ### This is my new page. You can read more about me [here](https://manuelsr26.github.io/about) 
 
-![Picture by NASA!](https://unsplash.com/photos/Q1p7bh3SHj8 "Picture by NASA")
+![Picture by NASA!](/nasa-Q1p7bh3SHj8-unsplash.jpg "Picture by NASA")
 
 <figure>
     <img src='https://unsplash.com/photos/Q1p7bh3SHj8'

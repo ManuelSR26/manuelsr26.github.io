@@ -15,7 +15,7 @@
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G wireless networks. Currently, I am an online graduate student with passion for Data, Machine Learning, and Artificial Intelligence. </span>
+<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G wireless networks. Currently, I am an online graduate student passionate for Data, Machine Learning, and Artificial Intelligence. </span>
 </p>
 
 <p style="text-align: center;">

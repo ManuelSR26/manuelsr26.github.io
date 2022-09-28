@@ -11,7 +11,7 @@
 <figure>
     <img src="/nasa-Q1p7bh3SHj8-unsplash.jpg"
          alt="Credit: NASA">
-    <figcaption>Credit NASA</figcaption>
+    <figcaption>Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 </figure>
   
 #### <center> Thanks for visiting, have a great day! </center>

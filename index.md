@@ -6,12 +6,8 @@
 
 ## <center> <span style="color:blue"> Engineer, Tech Enthusiast & aspirant Data Scientist </span>  </center>
 
-![Photo by NASA](/nasa-1lfI7wkGWZ4-unsplash.jpg "Photo by NASA")
-*Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash*
+<center> ![Photo on Unsplash](/images/nasa3.jpg "Photo on Unsplash") </center>
 
-
-
-![Photo on Unsplash](/images/nasa3.jpg "Photo on Unsplash")
 *Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash*
   
 

@@ -10,5 +10,5 @@
 
 *Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash*
   
-#### <center> Thanks for visiting, have a great day! </center>
+
 

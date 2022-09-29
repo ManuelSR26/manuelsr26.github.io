@@ -6,13 +6,7 @@
 
 ## <center> <span style="color:blue"> Engineer, Tech Enthusiast & aspirant Data Scientist </span>  </center>
 
-
-
-<figure>
-    <img src="/nasa-Q1p7bh3SHj8-unsplash.jpg"
-         alt="Photo by NASA on Unsplash[^1]">
-    <figcaption>Photo by NASA on Unsplash[^1]</figcaption>
-</figure>
+![Photo by NASA](/nasa-1lfI7wkGWZ4-unsplash.jpg "Photo by NASA")
   
 #### <center> Thanks for visiting, have a great day! </center>
 

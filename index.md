@@ -11,7 +11,7 @@
 <figure>
     <img src="/nasa-Q1p7bh3SHj8-unsplash.jpg"
          alt="Photo by NASA on Unsplash[^1]">
-    <figcaption>Photo by NASA on Unsplash</figcaption>
+    <figcaption>Photo by NASA on Unsplash[^1]</figcaption>
 </figure>
   
 #### <center> Thanks for visiting, have a great day! </center>

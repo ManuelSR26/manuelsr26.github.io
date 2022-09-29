@@ -10,7 +10,7 @@
 
 <figure>
     <img src="/nasa-Q1p7bh3SHj8-unsplash.jpg"
-         alt="Photo by NASA on Unsplash">
+         alt="Photo by NASA on Unsplash[^1]">
     <figcaption>Photo by NASA on Unsplash</figcaption>
 </figure>
   

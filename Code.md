@@ -7,8 +7,6 @@
 Some useful code links:
 
 
-<style>
-  .footer {
-    display: None;
-  }
-</style>
+<footer>
+  Made by
+</footer>

@@ -17,7 +17,7 @@ Warner Brothers, Los Angeles Convention Center, and LAX CRAN LTE & 5G Deployment
 ### YUPANA, Inc. Aug 2014 – Sep 2017 
 
 North California LTE NSB Support for **<span style="color:blue">AT&T</span>** | Los Angeles UMTS and LTE NSB Support for **<span style="color:blue">AT&T</span>** |
-SW Development of YUPPI | 
+SW Development of YUPPI | Training of new team members
 
 ### ERICSSON, Aug 2010 – July 2014
 

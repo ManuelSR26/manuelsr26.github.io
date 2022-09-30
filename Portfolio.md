@@ -11,7 +11,7 @@
 
 ## AT&T. Tustin, CA, USA. March 2018 – Present
 
-Los Angeles C-RAN LTE & 5G Support | South Texas LTE Optimization | 
+Los Angeles C-RAN LTE & 5G Support | 
 
 **<span style="color:blue">YUPANA, Inc. Walnut Creek, CA, USA. August 2014 – September 2017</span>**
 
@@ -19,7 +19,7 @@ SW Development of YUPPI | SW Development of YUCUBE | North California LTE NSB |
 
 **<span style="color:blue">ERICSSON. Mexico City, Mexico. August 2010 – July 2014</span>**
 
-National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes |  National UMTS Node B Rehome |
+National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes |  National UMTS Node B Rehome | South Texas LTE Optimization | 
 
 **<span style="color:blue">SIEMENS. Puebla, Mexico. November 2009 - April 2010</span>**
 

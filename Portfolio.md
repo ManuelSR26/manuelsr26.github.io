@@ -16,9 +16,7 @@ Los Angeles C-RAN LTE & 5G Support |
 **<span style="color:blue">YUPANA, Inc. Walnut Creek, CA, USA. August 2014 – September 2017</span>**
 
 North California LTE NSB Support for AT&T | Los Angeles UMTS and LTE NSB Support for AT&T |
---
 SW Development of YUPPI | SW Development of YUCUBE |
---
 
 **<span style="color:blue">ERICSSON. Mexico City, Mexico. August 2010 – July 2014</span>**
 
@@ -26,4 +24,4 @@ National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to 
 
 **<span style="color:blue">SIEMENS. Puebla, Mexico. November 2009 - April 2010</span>**
 
-|Volkswagen IT Support|
+|IT Support for **<span style="color:blue">Volkswagen</span>**|

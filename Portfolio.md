@@ -6,7 +6,7 @@
 ## <center> <span style="color:blue"> Projects </span>  </center>
 
 <p style="text-align: center;">
-<span style="color:black">Here is a list of the projects I have been worked and contributed on.</span>
+<span style="color:black">Here is a list of the projects I have worked and contributed on.</span>
 </p>
 
 **<span style="color:blue">AT&T. Tustin, CA, USA. March 2018 – Present</span>**

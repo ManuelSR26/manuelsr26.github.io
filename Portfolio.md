@@ -18,9 +18,10 @@ Los Angeles C-RAN LTE & 5G Support |
 North California LTE NSB Support for AT&T | Los Angeles UMTS and LTE NSB Support for AT&T |
 SW Development of YUPPI | SW Development of YUCUBE |
 
-**<span style="color:blue">ERICSSON. Mexico City, Mexico. August 2010 – July 2014</span>**
+### ERICSSON, Aug 2010 – July 2014
 
-National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes |  National UMTS Node B Rehome | South Texas LTE Optimization | 
+National UMTS & LTE Network Modernization for **<span style="color:blue">T - Mobile</span>** |   National UMTS Node B Rehome for **<span style="color:blue">AT&T</span>** | 
+South Texas LTE Optimization | New York Hybrid Migration of ATM to IP Nodes |
 
 
 ## SIEMENS, Nov 2009 - April 2010

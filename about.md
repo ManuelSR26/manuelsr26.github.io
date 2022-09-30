@@ -22,10 +22,7 @@
 
 
 ![MyPhoto](/images/w1.jpg "MyPhoto") 
-*Somewhere in*
-
-![MyPhoto](/images/w2.jpg "MyPhoto") 
-*Somewhere in*
+*California, USA*
 
 ![MyPhoto](/images/IMG_3064.JPG "MyPhoto") 
 *NSW, Canada*

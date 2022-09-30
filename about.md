@@ -21,8 +21,11 @@
 </p>
 
 
-![MyPhoto](/images/DSCN0367.JPG "MyPhoto") 
-*California, USA*
+![MyPhoto](/images/w1.JPG "MyPhoto") 
+*Somewhere in*
+
+![MyPhoto](/images/w2.JPG "MyPhoto") 
+*Somewhere in*
 
 ![MyPhoto](/images/IMG_3064.JPG "MyPhoto") 
 *NSW, Canada*

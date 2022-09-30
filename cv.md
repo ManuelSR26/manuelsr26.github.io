@@ -71,7 +71,7 @@
 
 **<span style="color:blue">AT&T:</span>** 
 
-Los Angeles C-RAN LTE & 5G Support | South Texas LTE Optimization | North California LTE NSB | National UMTS Node B Rehome 
+Los Angeles C-RAN LTE & 5G Support | North Texas LTE Optimization | North California LTE NSB | National UMTS Node B Rehome 
 
 **<span style="color:blue">YUPANA, INC.:</span>**
 

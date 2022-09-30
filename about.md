@@ -21,9 +21,9 @@
 </p>
 
 
-![MyPhoto](/images/w1.jpg "MyPhoto") 
-*California, USA*
+![MyPhoto](/images/IMG_8012.jpg "MyPhoto") 
+*Bacalar, Mexico*
 
 ![MyPhoto](/images/IMG_3064.JPG "MyPhoto") 
-*NSW, Canada*
+*Deep Cove, Canada*
 

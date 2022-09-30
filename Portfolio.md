@@ -9,13 +9,16 @@
 <span style="color:black">Here is a list of the projects I have worked and contributed on divided by Employer.</span>
 </p>
 
-## AT&T. Tustin, CA, USA. March 2018 – Present
+## AT&T. March 2018 – Present
 
 Los Angeles C-RAN LTE & 5G Support | 
 
 **<span style="color:blue">YUPANA, Inc. Walnut Creek, CA, USA. August 2014 – September 2017</span>**
 
-SW Development of YUPPI | SW Development of YUCUBE | North California LTE NSB |
+North California LTE NSB Support for AT&T | Los Angeles UMTS and LTE NSB Support for AT&T |
+--
+SW Development of YUPPI | SW Development of YUCUBE |
+--
 
 **<span style="color:blue">ERICSSON. Mexico City, Mexico. August 2010 – July 2014</span>**
 

@@ -22,7 +22,7 @@ SW Development of YUPPI | SW Development of YUCUBE |
 
 National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes |  National UMTS Node B Rehome | South Texas LTE Optimization | 
 
-## 
+
 ## SIEMENS, Nov 2009 - April 2010
 
 |IT Support for **<span style="color:blue">Volkswagen</span>**|

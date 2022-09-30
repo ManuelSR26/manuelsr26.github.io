@@ -23,6 +23,9 @@
 </p>
 
 
+![MyPhoto](/images/DSCN0367.JPG "MyPhoto") 
+*California, USA*
+
 ![MyPhoto](/images/IMG_3064.JPG "MyPhoto") 
-*Deep Cove*
+*NSW, Canada*
 

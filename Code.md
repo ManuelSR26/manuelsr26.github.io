@@ -9,6 +9,6 @@ Some useful code links:
 
 <style>
   .footer {
-    display: Made in California by The Telecom Wizard via GitHub Pages;
+    display: None;
   }
 </style>

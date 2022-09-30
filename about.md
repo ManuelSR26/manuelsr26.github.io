@@ -23,3 +23,6 @@
 </p>
 
 
+![MyPhoto](/images/IMG_3064.jpg "MyPhoto") 
+*Deep Cove*
+

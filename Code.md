@@ -7,6 +7,4 @@
 Some useful code links2:
 
 
-<footer>
-  Made by
-</footer>
+

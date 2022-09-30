@@ -9,7 +9,7 @@
 <span style="color:black">Here is a list of the projects I have worked and contributed on divided by Employer.</span>
 </p>
 
-## AT&T. March 2018 – Present
+## AT&T, March 2018 – Present
 
 Los Angeles C-RAN LTE & 5G Support | 
 
@@ -22,6 +22,7 @@ SW Development of YUPPI | SW Development of YUCUBE |
 
 National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes |  National UMTS Node B Rehome | South Texas LTE Optimization | 
 
-**<span style="color:blue">SIEMENS. Puebla, Mexico. November 2009 - April 2010</span>**
+## 
+## SIEMENS, Nov 2009 - April 2010
 
 |IT Support for **<span style="color:blue">Volkswagen</span>**|

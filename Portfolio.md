@@ -6,10 +6,10 @@
 ## <center> <span style="color:blue"> Projects </span>  </center>
 
 <p style="text-align: center;">
-<span style="color:black">Here is a list of the projects I have worked and contributed on.</span>
+<span style="color:black">Here is a list of the projects I have worked and contributed on divided by Employer.</span>
 </p>
 
-**<span style="color:blue">AT&T. Tustin, CA, USA. March 2018 – Present</span>**
+## AT&T. Tustin, CA, USA. March 2018 – Present
 
 Los Angeles C-RAN LTE & 5G Support | South Texas LTE Optimization | North California LTE NSB | National UMTS Node B Rehome 
 

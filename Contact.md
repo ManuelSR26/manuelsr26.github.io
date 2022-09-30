@@ -7,6 +7,6 @@
 ## <center> <span style="color:blue"> Let's connect </span>  </center>
 
 
-### If you are interested in Tech to improve people's lives, please add me via <a href="https://www.linkedin.com/in/manuel-silva-ramirez" target="_blank">LinkedIn</a>. 
+### If you are interested in the intersection of Telecom and AI, ML & Data, please add me via <a href="https://www.linkedin.com/in/manuel-silva-ramirez" target="_blank">LinkedIn</a>. 
 
 ### You can also [email me](mailto:manuel.isr@outlook.com).

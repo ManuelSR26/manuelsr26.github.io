@@ -15,7 +15,7 @@
 </p>
 
 <p style="text-align: center;">
-<span style="color:black">I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G networks. Currently, I am a part-time online graduate student. </span>
+<span style="color:black">I am a part-time online graduate student, and I work as an Engineer in the Telecom Industry supporting projects for Mobile Operators in the LTE and 5G networks.  </span>
 </p>
 
 <p style="text-align: center;">

@@ -21,10 +21,10 @@
 </p>
 
 
-![MyPhoto](/images/w1.JPG "MyPhoto") 
+![MyPhoto](/images/w1.jpg "MyPhoto") 
 *Somewhere in*
 
-![MyPhoto](/images/w2.JPG "MyPhoto") 
+![MyPhoto](/images/w2.jpg "MyPhoto") 
 *Somewhere in*
 
 ![MyPhoto](/images/IMG_3064.JPG "MyPhoto") 

@@ -22,8 +22,8 @@ SW Development of YUPPI | SW Development of YUCUBE |
 
  
 New York Migration from ATM to IP Nodes for **<span style="color:blue">T-Mobile</span>** | National UMTS Node B Rehome for **<span style="color:blue">AT&T</span>** |
-National LTE Network Modernization for **<span style="color:blue">T-Mobile</span>** |
-North Texas, Florida, and Louisiana LTE Optimization for **<span style="color:blue">AT&T</span>** | 
+National LTE Network Modernization for **<span style="color:blue">T-Mobile</span>** | North Texas, Florida, and Louisiana LTE Optimization for **<span style="color:blue">AT&T</span>** | 
+
 
 
 ### SIEMENS, Nov 2009 - April 2010

@@ -71,11 +71,8 @@
 
 **<span style="color:blue">AT&T:</span>** 
 
-Los Angeles C-RAN LTE & 5G Support | North Texas LTE Optimization | North California LTE NSB | National UMTS Node B Rehome 
+Los Angeles C-RAN LTE & 5G Small Cells Support | National UMTS Node B Rehome | North California LTE NSB Support
 
-**<span style="color:blue">YUPANA, INC.:</span>**
-
-SW Development of YUPPI | SW Development of YUCUBE
 
 **<span style="color:blue">T-Mobile:</span>** 
 

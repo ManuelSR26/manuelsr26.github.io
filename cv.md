@@ -44,6 +44,11 @@
 - Intern, August 2010 – Nov 2010
 
 
+**<span style="color:blue">SIEMENS. Puebla, Mexico. Nov 2009 – Apr 2010</span>**
+
+- IT Support Engineer
+
+
 
 ## Education
 

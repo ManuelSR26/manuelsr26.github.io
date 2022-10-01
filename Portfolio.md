@@ -12,7 +12,7 @@
 ### AT&T, March 2018 – Present
 
 Los Angeles C-RAN LTE & 5G Small Cells Support | Los Angeles Automated RAN Element Acceptance Testing|
-Warner Brothers, Los Angeles Convention Center, and LAX CRAN LTE & 5G Deployment| 5G O-RAN Conversion (Samsung to Ericsson) 
+Warner Brothers, Los Angeles Convention Center, and LAX CRAN LTE & 5G Deployment| Los Angeles 5G O-RAN Conversion (Samsung to Ericsson) 
 
 ### YUPANA, Inc. Aug 2014 – Sep 2017 
 

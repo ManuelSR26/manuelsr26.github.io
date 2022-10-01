@@ -12,12 +12,12 @@
 ### AT&T, March 2018 – Present
 
 Los Angeles C-RAN LTE & 5G Small Cells Support | Los Angeles Automated RAN Element Acceptance Testing|
-Warner Brothers, Los Angeles Convention Center, and LAX CRAN LTE & 5G Deployment| 
+Warner Brothers, Los Angeles Convention Center, and LAX CRAN LTE & 5G Deployment| 5G O-RAN Conversion (Samsung to Ericsson) 
 
 ### YUPANA, Inc. Aug 2014 – Sep 2017 
 
 North California LTE NSB Support for **<span style="color:blue">AT&T</span>** | Los Angeles UMTS and LTE NSB Support for **<span style="color:blue">AT&T</span>** |
-SW Development of YUPPI | Training of new team members
+SW Development of YUPPI | SW Development of YUCUBE |
 
 ### ERICSSON, Aug 2010 – July 2014
 

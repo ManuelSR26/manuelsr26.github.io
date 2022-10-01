@@ -81,7 +81,7 @@ Los Angeles C-RAN LTE & 5G Small Cells Support | National UMTS Node B Rehome | N
 
 **<span style="color:blue">T-Mobile:</span>** 
 
-National UMTS & LTE Network Modernization | New York Hybrid Migration of ATM to IP Nodes
+National LTE Modernization | New York Migration from ATM to IP Nodes
 
 
 

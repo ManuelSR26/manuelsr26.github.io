@@ -23,7 +23,12 @@
 
 **<span style="color:blue">AT&T. Tustin, CA, USA. March 2018 – Present</span>**
 
-- Senior RF Engineer, Contractor on behalf of Ericsson by Brook Consultants Inc.
+- Senior Radio Frequency Engineer, Contractor on behalf of Ericsson by Brook Consultants Inc.
+
+
+**<span style="color:blue">NEXIUS. San Antonio, TX, USA. October 2017 – January 2018</span>**
+
+- Senior RF Engineer, Contractor on behalf of MobileNet Services Inc.
 
 
 **<span style="color:blue">YUPANA, Inc. Walnut Creek, CA, USA. August 2014 – September 2017</span>**
@@ -52,8 +57,12 @@
 
 ## Education
 
-*GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2021 - Ongoing:* 
+*GEORGIA INSTITUTE OF TECHNOLOGY, USA, 2023 - Ongoing:* 
 **MS Analytics**
+
+
+*EDX GTX, USA, 2021 - 2022*
+**MicroMasters Program Certificate. Analytics: Essential Tools and Methods**
 
 
 *TECNOLÓGICO DE MONTERREY, Mexico, 2010:*
